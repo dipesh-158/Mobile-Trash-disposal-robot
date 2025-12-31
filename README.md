@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=qpPbaDsw1vQ" target="_blank">
+    <img src="https://img.youtube.com/vi/qpPbaDsw1vQ/maxresdefault.jpg"
+         alt="Autonomous Trash Collection Robot Demo"
+         width="800" />
+  </a>
+</p>
+
 # Autonomous Trash Collection and Disposal Robot (ROS/Gazebo)
 
 **Author:** Dipesh Budhathoki  
