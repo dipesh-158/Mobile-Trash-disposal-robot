@@ -4,6 +4,8 @@
          alt="Autonomous Trash Collection Robot Demo"
          width="800" />
   </a>
+  <br>
+  <span>Click here for video demo</span>
 </p>
 
 # Autonomous Trash Collection and Disposal Robot (ROS/Gazebo)
